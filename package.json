@@ -1,0 +1,44 @@
+{
+    "name": "dobrego-popoludnia-new",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "@emotion/react": "^11.10.6",
+        "@mantine/core": "^6.0.7",
+        "@mantine/hooks": "^6.0.7",
+        "@mantine/notifications": "^6.0.7",
+        "@tabler/icons-react": "^2.16.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-markdown": "^8.0.7",
+        "react-scripts": "5.0.1"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject",
+        "prettier": "prettier . --write"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app",
+            "react-app/jest"
+        ]
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "prettier": "^2.8.7"
+    }
+}
