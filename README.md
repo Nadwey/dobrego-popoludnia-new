@@ -1,7 +1,6 @@
 # [dobrego-popoludnia.nadwey.pl](https://dobrego-popoludnia.nadwey.pl)
 
-![](https://dobrego-popoludnia.nadwey.pl/img/f2f10358-ea03-4244-bdfb-3284912c2f9b.gif)
-![](https://dobrego-popoludnia.nadwey.pl/img/865de732-acd4-482f-88d0-8a266da30770.gif)
+![6d5d4943-3444-43eb-8018-0ec683f0bddb](https://github.com/Nadwey/dobrego-popoludnia-new/assets/81181783/7c122ff1-7dc5-4556-9988-a637a9cb795d)
 
 Yyy, no co ja mogę powiedzieć, fajne obrazki są.
 
